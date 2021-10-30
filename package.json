@@ -9,6 +9,7 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
+    "chart.js": "^3.6.0",
     "clean-webpack-plugin": "^4.0.0",
     "css-loader": "^6.5.0",
     "file-loader": "^6.2.0",

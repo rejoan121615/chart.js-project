@@ -35,7 +35,7 @@ module.exports = {
     }),
     new CleanWebpackPlugin({
       cleanOnceBeforeBuildPatterns: ['**/*'],
-      cleanStaleWebpackAssets: ['**/*']
+      cleanAfterEveryBuildPatterns: ['**/*']
     })
   ]
 }
